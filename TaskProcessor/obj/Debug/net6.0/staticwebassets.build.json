@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpM6CIgOs+sUN5+mtp78rXD/ZEPQDMa9rQZgYpFjZ0c=",
+  "Source": "TaskProcessor",
+  "BasePath": "_content/TaskProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
